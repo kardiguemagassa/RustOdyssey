@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Rust / Cargo
+**/target/
+
+# JetBrains / RustRover
+.idea/
+
+# Fichiers temporaires
+*.log
